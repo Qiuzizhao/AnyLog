@@ -2,7 +2,7 @@
   "expo": {
     "name": "打卡",
     "slug": "anylog-standalone-app",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "anylogapp",
@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "bundleIdentifier": "com.qiuzizhao.anylogapp",
-      "buildNumber": "3",
+      "buildNumber": "4",
       "supportsTablet": true,
       "infoPlist": {
         "CFBundleDisplayName": "打卡",
@@ -22,7 +22,7 @@
     },
     "android": {
       "package": "com.qiuzizhao.anylogapp",
-      "versionCode": 3,
+      "versionCode": 4,
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
